@@ -11,7 +11,7 @@ in non-browser apps are now sent to Browserosaurus where it’ll present you wit
 a menu of all your installed browsers. You may now decide which browser you’d
 like to continue opening the link with.
 
-**Currently supports macOS 11.1.0**
+**Currently supports macOS 11.4**
 
 ## Installation
 
@@ -61,8 +61,8 @@ https://github.com/alrra/browser-logos
 
 ### Make icon.icns
 
-To build an icns file (app icon) from `src/images/icon/icon.png`, simply run
-`npm run icns`.
+To build an icns file (app icon) from `src/shared/static/icon/icon.png`, simply
+run `npm run icns`.
 
 ## Publishing
 
